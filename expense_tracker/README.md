@@ -41,7 +41,7 @@ Here are some examples of violating ```non-functional``` requirements:
 ## Understandibility
 For the understandability section, we will be inspecting your git log. You should include either the .git folder or else a gitLog.(pdf | txt).
 
-## Supported Features
+## Supported Features that I added
 
 1. **Add Transactions**  
    - Enter an `amount` (e.g., `50.0`) and `category` (e.g., `food`, `travel`, `bills`, etc.).
